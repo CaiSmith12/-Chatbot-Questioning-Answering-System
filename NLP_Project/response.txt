@@ -1,0 +1,29 @@
+Hello!,greeting
+Hi there!,greeting
+Hey!,greeting
+Howdy,greeting
+Hello,greeting
+I am good,greet
+I am fine,greet
+My name is ChatBot.,name
+I'm ChatBot, nice to meet you.,name
+I can answer your questions or chat with you.,capabilities
+I can talk with you,capabilities
+I can be your friend.,capabilities
+Goodbye!,farewell
+See you later.,farewell
+Bye!,farewell
+The weather is sunny today.,weather
+It's cloudy outside.,weather
+The temperature is 70 degrees.,weather
+My favorite color is blue.,preferences
+I like pizza.,preferences
+I enjoy playing video games.,preferences
+Why did the tomato turn red? Because it saw the salad dressing!,entertainment
+I can sing 'Row, Row, Row Your Boat.',entertainment
+I recommend watching the movie 'The Matrix.',entertainment
+I'm a big fan of stand-up comedy.,entertainment
+The meaning of life is subjective.,philosophy
+Free will is a complex topic.,philosophy
+The purpose of existence is to create meaning.,philosophy
+I think that the meaning of life is to find your purpose and live it to the fullest.,philosophy

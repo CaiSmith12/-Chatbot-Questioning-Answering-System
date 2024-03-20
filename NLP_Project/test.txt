@@ -1,0 +1,14 @@
+Hello,greeting
+What can you do?,capabilities
+What are you capable of?, capabilities
+My name is ChatBot.,name
+I am good,greet
+I am fine,greet
+Can you recommend a good book?,entertainment
+What is the purpose of life?,philosophy
+Do you like pizza?,preferences
+Goodbye for now,farewell
+Will it be hot tomorrow?,weather
+Sing me a song please,entertainment
+What is the temperature outside?,weather
+How old are you?,none

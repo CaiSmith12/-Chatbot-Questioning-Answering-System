@@ -1,0 +1,14 @@
+Hello, greeting
+Hi there, greeting
+How are you?, greet
+What is your name?, name
+What do you call yourself?, name
+What can you do?, capabilities
+What are you capable of?, capabilities
+what is weather outside?, weather
+Do you like pizza?, preferences
+What is the purpose of life?, philosophy
+Talk to you soon, farewell
+Goodbye, farewell
+Goodbye!, farewell
+See you later, farewell
